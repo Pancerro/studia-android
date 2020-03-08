@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aktywnosci i intencje</string>
+    <string name="send">Wybierz dzialanie</string>
+    <string name="wybierz_liczby">Wybierz liczby</string>
+    <string name="wynik">Wynik</string>
+    <string name="liczba1">Liczba 1</string>
+    <string name="liczba2">Liczba 2</string>
+    <string-array name="dzialanie">
+        <item>+</item>
+        <item>-</item>
+        <item>/</item>
+        <item>*</item>
+        <item>^</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bazy Danych SQLite i kursory</string>
+    <string name="logo">logo</string>
+    <string name="animal">animal</string>
+    <string-array name="options">
+        <item>Zwierzeta</item>
+    </string-array>
+
+</resources>

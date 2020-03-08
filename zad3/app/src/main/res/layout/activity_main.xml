@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="319dp"
+        android:scaleType="centerCrop"
+        android:layout_gravity="center"
+        android:src="@drawable/tlo"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+    android:id="@+id/textView1"
+        android:layout_width="450dp" android:layout_height="220dp"
+    android:layout_gravity="top"
+    android:text="@string/text_na_g_rze"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+        android:background="#000000"
+    android:textColor="#ff0000"
+    android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="450dp"
+        android:layout_height="220dp"
+        android:layout_gravity="bottom"
+        android:gravity="bottom"
+        android:background="#000000"
+        android:text="@string/tekst_na_dole"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#ff0000" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Kliknij"
+        android:layout_gravity="center"
+        android:background="#000000"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:onClick="klik"/>
+
+</FrameLayout>

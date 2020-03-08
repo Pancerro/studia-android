@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Widoki i grupy widoków w różnych układach.iml" filepath="$PROJECT_DIR$/Widoki i grupy widoków w różnych układach.iml" group="Widoki i grupy widoków w różnych układach" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Widoki i grupy widoków w różnych układach/app" />
+    </modules>
+  </component>
+</project>

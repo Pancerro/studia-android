@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Widoki i grupy widoków w różnych układach</string>
+    <string name="text_na_g_rze">Text na górze</string>
+    <string name="tekst_na_dole">Tekst na dole</string>
+    <string name="todo">TODO</string>
+    <string name="Kliknij">Kliknij</string>
+    <string name="button">Powrot</string>
+    <string name="Przelacz">Switch</string>
+    <string name="zolty">zolty</string>
+    <string name="zielony">zielony</string>
+    <string name="czerwony">czerwony</string>
+    <string name="radiobutton">1</string>
+    <string name="radiobutton2">2</string>
+    <string name="togglebutton">On</string>
+    <string-array name="alfabet">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+
+</resources>

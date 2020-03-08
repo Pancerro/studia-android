@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Widoki-list-adaptery-paski-aplikacji.iml" filepath="$PROJECT_DIR$/Widoki-list-adaptery-paski-aplikacji.iml" group="Widoki-list-adaptery-paski-aplikacji" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Widoki-list-adaptery-paski-aplikacji/app" />
+    </modules>
+  </component>
+</project>
